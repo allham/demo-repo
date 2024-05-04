@@ -10,4 +10,9 @@ Tutorial on YouTube.
 
 ## Local Development
 
-1. Open index.html in a browser.git 
+1. Open index.html in a browser.
+
+
+## Local something ...
+
+1. Opn something somewhere (demonstration ...).
