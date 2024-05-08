@@ -1,5 +1,7 @@
 body {
+    font-size: 50px;
     background: wheat;
+    text-align: center;
 }
 h1 {
     color: peru;
