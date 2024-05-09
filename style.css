@@ -1,12 +1,4 @@
-body {
-    font-size: 50px;
-    background: wheat;
-    text-align: center;
-}
-h1 {
-    color: lawngreen;
-}
-p {
-    color: brown;
-
+html {
+    background-image: url('images/univers.avif');
+    background-size: cover;
 }
